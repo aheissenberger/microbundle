@@ -4,7 +4,7 @@
 
 ### Patch Changes
 
-- [`d87a5dc`](https://github.com/developit/microbundle/commit/d87a5dc286a1edba92ca3ec5b534807688c90854) Thanks [@developit](https://github.com/developit)! - - Fix `--sourcemap=false` to match `--no-sourcemap` and actually turn sourcemaps off.
+- [`73d4de7`](https://github.com/developit/microbundle/commit/73d4de76e995e471b643b99f65eae5c0e4516650) Thanks [@gdorsi](https://github.com/gdorsi)! - - Fix `--sourcemap=false` to match `--no-sourcemap` and actually turn sourcemaps off.
 
 ## 0.13.0
 
